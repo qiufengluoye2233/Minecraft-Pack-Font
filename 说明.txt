@@ -1,0 +1,29 @@
+原作者：[苦力怕论坛@喵酱酱]
+首先，字体不是我本人的，请不要随便用
+
+
+
+如何应用字体
+将font加入材质包
+在UI的json有关label的文本内容改为以下格式
+例
+
+
+                "about@common.minecraftTenLabel": {  //在原先的label，如"about"后面那里加上@common.minecraftTenLabel即可，( "about": { 变为"about@common.minecraftTenLabel": {  )
+                    "type": "label", //label类
+                    "font_scale_factor": 1.5,//字体大小
+                    "offset": [
+                        0,
+                        55
+                    ],
+                    "layer": 3,//层数
+                    "text": "Loli.0",//文字
+                    "color": "yellow",//颜色
+                    "anchor_from": "top_middle",
+                    "anchor_to": "top_middle",
+                    "bindings": [
+                        {
+                            "binding_name": "#about"
+                        }
+                    ]
+                }
