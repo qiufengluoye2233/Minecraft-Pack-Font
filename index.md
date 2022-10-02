@@ -1,8 +1,8 @@
 # Minecraft-Pack-Font介绍
 
-![](https://img.shields.io/badge/版本(Releases)-V1.0.0-skyblue.svg)  ![](https://img.shields.io/badge/原作者-苦力怕论坛@喵喵酱-green.svg)<br>
+![](https://img.shields.io/badge/版本(Releases)-V1.0.0-skyblue.svg)  ![](https://img.shields.io/badge/原作者-苦力怕论坛@喵酱酱-green.svg)<br>
 
-原作者：苦力怕论坛（klpbbs.com）@喵喵酱<br>
+原作者：苦力怕论坛（klpbbs.com）@喵酱酱<br>
 
 利用这些源码可以在Minecraft基岩版中成功实现使用.ttf的字体<br>
 
